@@ -5,8 +5,8 @@
                 <div class="container d-md-flex align-items-center px-0 px-xl-3">
                     <div class="d-none d-md-block text-nowrap me-3">
                     <i class="fas fa-phone-alt fs-base text-muted me-1 align-middle"></i>
-                    <span class="text-muted me-2">Ventas al por mayor y detal</span>
-                    <a class="topbar-link me-1" href="tel:3105973233">(+57) 3105973233</a> <i class="fas fa-angle-right text-muted me-1 align-middle"></i>5110738 <i class="fas fa-angle-right text-muted me-1 align-middle"></i>5120482 &nbsp;<a class="topbar-link me-1" href="tel:3206572484"><i class="fab fa-whatsapp fs-base text-muted test-success me-1 align-middle"></i>(+57) 3206572484</a>
+                    <span class="text-muted me-2">Ventas al por mayor y al detal</span>
+                    <a class="topbar-link me-1" href="tel:3105973233">(+57) 3105973233</a> <i class="fas fa-angle-right text-muted me-1 align-middle"></i>5110738 <i class="fas fa-angle-right text-muted me-1 align-middle"></i>5120482 &nbsp;<a class="topbar-link me-1" href="tel:3206572484"><i class="fab fa-whatsapp fs-base text-muted me-1 align-middle"></i>(+57) 3206572484</a>
                     </div>
                     <div class="d-flex text-md-end ms-md-auto"><a class="topbar-link pe-2 me-4" href="order-tracking.php">
                         <i class="fas fa-map-marker-alt fs-base opacity-60 me-1 align-middle"></i>Ratrear <span class='d-none d-sm-inline'>pedido</span></a>
